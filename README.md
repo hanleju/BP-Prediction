@@ -1,4 +1,4 @@
-# Healcare Dataset Challenge
+# Healthcare Dataset Challenge
 
 ## BP regression
 
