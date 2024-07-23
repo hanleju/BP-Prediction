@@ -1,11 +1,22 @@
-# BP-Prediction
+# Healcare Dataset Challenge
 
-### SBP, DBP Predict
+## BP regression
 
-### Model : GradientBoostingRegressor
+SBP, DBP Predict
 
-### Optimize : Bayesian Optimizer
+Model : GradientBoostingRegressor
 
-### Valid : K-Fold Cross Validation
+Optimize : Bayesian Optimizer
 
-### Dataset : 
+Valid : K-Fold Cross Validation
+
+## Glucose regression
+
+Glucose regression
+
+Model : CatBoostRegressor
+
+Optimize : optuna
+
+Valid : K-Fold Cross Validation
+
